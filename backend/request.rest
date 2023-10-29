@@ -14,12 +14,12 @@ Content-Type: application/json
 }
 
 ###
-PATCH http://localhost:5000/users/653c5935e66d86f41c450c2a
+PATCH http://localhost:5000/users/6537365bf7a16632af530111
 Content-Type: application/json
 
 {
-    "name": "testing updated"
+    "name": "iwan purwadi"
 }
 
 ###
-DELETE http://localhost:5000/users/653c5935e66d86f41c450c2a
+DELETE http://localhost:5000/users/653de982ce31219d96aa9dc6
